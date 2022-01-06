@@ -1,5 +1,4 @@
 console.log("Hello world")
-console.log("Hello world naja")
 
 const http = require('http');
 const options = {
